@@ -1,0 +1,38 @@
+Java 8+
+Angular 2+
+Spring Boot, Cloud, Security
+Javascript, Typescript
+Jasmine & Karma
+JUnit & Mockito
+AWS - S3, EC2, RDS, EKS, etc
+Kafka/RabbitMQ/ActiveMQ
+Docker
+Kubernetes
+Jenkins/Github Actions
+Git
+GraphQL
+SLF4J/LOG4J
+CORS, CSRF, CQRS
+RxJs & NgRx
+Spring Data JPA & Hibernate
+Microservices (API Gateway, Discovery service, Resilience4J, Load balancer)
+MySQL/SQL/Postgres 
+NoSQL - mongodb/cassendra
+Design patterns
+Micro services design patterns
+	Orchestration (Async)
+	Choreography
+	Agrregator (Sync)
+	etc
+Distributed tracing(based on corelation url) + visualitation tool
+Monolith to Microservices migration = Strangler pattern, Bounded context pattern
+Data structures and Algorithms 
+Mirco frontends & Mono repo
+Web worker, Service worker
+Zipkin
+Micrometer Telemetry and New Relic
+Swagger/Postman
+ELK stack /SKL stack
+SSO
+java file store/retrieve management
+Event sourcing
